@@ -1,0 +1,18 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+:root {
+  --text-color: black;
+  --background-neutral: white;
+}
+
+html.dark :root {
+  --text-color: white;
+  --background-neutral: black;
+}
+
+html {
+  color: var(--text-color);
+  background-color: var(--backgroun-neutral);
+}
