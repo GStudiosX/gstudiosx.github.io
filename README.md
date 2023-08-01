@@ -1,1 +1,1 @@
-# gstudiosx.github.io
+# GStudiosX
