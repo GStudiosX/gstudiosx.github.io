@@ -7,12 +7,12 @@
   --background-neutral: white;
 }
 
-html.dark :root {
+html.dark {
   --text-color: white;
   --background-neutral: black;
 }
 
 html {
   color: var(--text-color);
-  background-color: var(--backgroun-neutral);
+  background-color: var(--background-neutral);
 }
